@@ -5,12 +5,10 @@
 	<artifactId>simpleCalculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<dependencies>
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+	<dependency>		
+			<groupId>junit.jar</groupId>
+			<artifactId>junit.jar</artifactId>
 			<version>4.12</version>
-			<scope>test</scope>
-		</dependency>
-	</dependencies>
+			<scope>test</scope>		
+	</dependency>
 </project>
